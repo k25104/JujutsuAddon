@@ -1,0 +1,6 @@
+{
+  "size": 1,
+  "order": 100,
+  "icon": "minecraft:item/empty_armor_slot_chestplate",
+  "validators": ["curios:tag"]
+}

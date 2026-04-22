@@ -1,0 +1,6 @@
+{
+  "size": 1,
+  "order": 40,
+  "icon": "minecraft:item/empty_armor_slot_helmet",
+  "validators": ["curios:tag"]
+}

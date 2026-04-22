@@ -1,0 +1,6 @@
+{
+  "size": 1,
+  "order": 120,
+  "icon": "minecraft:item/empty_armor_slot_leggings",
+  "validators": ["curios:tag"]
+}

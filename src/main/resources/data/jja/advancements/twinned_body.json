@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:sukuna_body_chestplate"
+    },
+    "title": {
+      "translate": "advancements.twinned_body.title"
+    },
+    "description": {
+      "translate": "advancements.twinned_body.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "twinned_body_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:advancement_six_eyes"
+}

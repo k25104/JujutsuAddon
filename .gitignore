@@ -1,0 +1,10 @@
+# Track only mod code/resources plus this Git policy file.
+/*
+!/.gitignore
+!/src/
+/src/*
+!/src/main/
+!/src/main/**
+
+.DS_Store
+**/.DS_Store
